@@ -1,0 +1,15 @@
+.btn {
+    text-align: center;
+    margin-top: 25%;
+}
+
+.btn button {
+    height: 60px;
+    width: 140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 7px;
+    border-color: blanchedalmond;
+    color: white;
+    background-color: rgb(46, 154, 158);
+    cursor: pointer;
+}
